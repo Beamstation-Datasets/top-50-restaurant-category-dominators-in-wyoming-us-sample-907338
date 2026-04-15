@@ -1,0 +1,12 @@
+{
+  "export_job_id": "41bc144e-1d54-4180-80a3-c6ff268fa9d6",
+  "id_short": 907338,
+  "published_at": "2026-04-15T19:23:26Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-wyoming-us-sample-907338",
+  "sample_asset_name": "beamstation_907338_restaurants-us-wy_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/907338/beamstation_907338_restaurants-us-wy_SAMPLE_DIST.csv",
+  "sample_records": 4,
+  "sample_sha256": "8879e5030b8a18cf63639796e15fd1928db4914ce46b212209d10794475e5a0a",
+  "sample_size_bytes": 33815,
+  "total_records": 50
+}
