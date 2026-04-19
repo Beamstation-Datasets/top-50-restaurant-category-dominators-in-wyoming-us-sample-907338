@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Wyoming, US",
-  "export_job_id": "41bc144e-1d54-4180-80a3-c6ff268fa9d6",
+  "export_job_id": "8a7770db-7622-4aff-8571-aa3903442c86",
   "github_org": "Beamstation-Datasets",
   "id_short": 907338,
   "location_name": "Wyoming",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-wyoming-us-sample-907338",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/907338/beamstation_907338_restaurants-us-wy_SAMPLE_DIST.csv",
-  "sample_pct": 8.0,
+  "sample_pct": 8.7,
   "sample_records": 4,
   "sample_sha256": "8879e5030b8a18cf63639796e15fd1928db4914ce46b212209d10794475e5a0a",
   "sample_size_bytes": 33815,
-  "total_records": 50,
-  "updated_at": "2026-04-08T01:41:11.423170+00:00"
+  "total_records": 46,
+  "updated_at": "2026-04-15T07:12:01.590561+00:00"
 }
